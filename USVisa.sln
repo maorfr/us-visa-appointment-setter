@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USVisa", "USVisa\USVisa.csproj", "{EFE31875-75E4-48D1-A48A-85FA84F0B299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frames", "Frames\Frames.csproj", "{0F634C16-AF95-4E10-80B0-A578D0AA25D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75484717-9401-4EBE-85ED-CEAEE6FAE0D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE31875-75E4-48D1-A48A-85FA84F0B299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE31875-75E4-48D1-A48A-85FA84F0B299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE31875-75E4-48D1-A48A-85FA84F0B299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE31875-75E4-48D1-A48A-85FA84F0B299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F634C16-AF95-4E10-80B0-A578D0AA25D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F634C16-AF95-4E10-80B0-A578D0AA25D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F634C16-AF95-4E10-80B0-A578D0AA25D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F634C16-AF95-4E10-80B0-A578D0AA25D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
